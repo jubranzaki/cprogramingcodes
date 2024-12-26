@@ -1,2 +1,1 @@
-# cprogramingcodes
-labprograns
+# Programing practical EE-24-10
